@@ -1,0 +1,30 @@
+body {
+
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    text-align: center;
+    background-image: url("hq720.jpg");
+    background-size: cover;
+    background-color: #ffffff44;
+    text-shadow: 1px 1px 2px #ffffffff;
+}
+
+h1 {
+
+    background-color: #99999955;
+
+}
+
+p {
+
+    width: 50%;
+    margin: 0 auto;
+
+}
+
+footer {
+
+    color: #999999;
+    font-size: 12px;
+    width: 100%;
+
+}
