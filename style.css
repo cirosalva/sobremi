@@ -14,10 +14,11 @@ h1 {
 
 }
 
-p {
+.body {
 
-    width: 50%;
-    margin: 0 auto;
+    background-color: #999999;
+    width: 512px;
+    
 
 }
 
